@@ -11,6 +11,6 @@ Alliance Captains: Earned the position of Alliance Captain at the Corning, NY Qu
 A massive thank you to the FIRST Excelsior community! The guidance, mentorship, and support shared by fellow teams and organizers throughout our inaugural season played a pivotal role in our growth and achievements.
 
 ### 📬 Connect With Us
-Contact: ftcerror101@gmail.com
-Location: Clifton Park, NY (Shenendehowa High School)
+Contact: ftcerror101@gmail.com <br>
+Location: Clifton Park, NY (Shenendehowa High School) <br>
 Website: ftcerror101.com
