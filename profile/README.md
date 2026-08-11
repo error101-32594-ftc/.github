@@ -1,7 +1,7 @@
 # FTC Error 101 (#32594)
 Welcome to the official repository for Error 101 (#32594), a FIRST Tech Challenge (FTC) team based in Clifton Park, NY!
 
-We are a group of eight students from Shenendehowa High School united by a passion for innovation, technical excellence, and the principles of the FIRST Core Values. Our team brings together a diverse set of skills spanning software architecture, mechanical engineering, CAD design, and community outreach.
+We are a group of nine students from Shenendehowa High School united by a passion for innovation, technical excellence, and the principles of the FIRST Core Values. Our team brings together a diverse set of skills spanning software architecture, mechanical engineering, CAD design, and community outreach.
 
 ## 🚀 Rookie Season Highlights
 In our debut season, we hit the ground running and achieved incredible milestones on the field:
@@ -14,3 +14,5 @@ A massive thank you to the FIRST Excelsior community! The guidance, mentorship, 
 Contact: ftcerror101@gmail.com <br>
 Location: Clifton Park, NY (Shenendehowa High School) <br>
 Website: ftcerror101.com
+<img width="671" height="500" alt="image" src="https://github.com/user-attachments/assets/1c9a3ae8-cdcc-4d15-92bd-869052e43815" />
+
