@@ -13,7 +13,7 @@ A massive thank you to the FIRST Excelsior community! The guidance, mentorship, 
 ### 📬 Connect With Us
 Contact: ftcerror101@gmail.com <br>
 Location: Clifton Park, NY (Shenendehowa High School) <br>
-Website: https:///ftcerror101.com <br>
+Website: https://ftcerror101.com <br>
 
 <img width="671" height="500" alt="image" src="https://github.com/user-attachments/assets/1c9a3ae8-cdcc-4d15-92bd-869052e43815" />
 
